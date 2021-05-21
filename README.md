@@ -1,0 +1,2 @@
+# haskell-good
+Reading Notes
